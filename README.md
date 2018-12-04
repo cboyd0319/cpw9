@@ -21,10 +21,10 @@ I initially had some issues with Google Cloud. In the interest of time, I stood 
 I'd like to take more time to add additional sensors and potentially write some automatic blocking/blackhoing scripts based on detected malicious activity
 
 Additionally, include a json export of the data you collected in the repo, instructions for which can be found in the next section.
-- [ ] JSON Export: ![](PLACEHOLDER)
+- [ ] JSON Export: https://github.com/cboyd0319/cpw9/blob/master/json_export/session.json
 
 Screenshots
-- [ ] Attacks Report: ![](PLACEHOLDER)
+- [ ] Attacks Report: ![](https://github.com/cboyd0319/cpw9/blob/master/images/Screen%20Shot%202018-12-03%20at%204.33.25%20PM.png)
 
 
-- [ ] Sensors: ![](PLACEHOLDER)
+- [ ] Sensors: ![](https://github.com/cboyd0319/cpw9/blob/master/images/Screen%20Shot%202018-12-03%20at%204.33.38%20PM.png)
