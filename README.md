@@ -17,6 +17,7 @@ A summary of the data collected: number of attacks, number of malware samples, e
 - Second most attacked port: 445 (204 times) - Windows file shares/SMB
 - Total Attacks: 21,242
 - Shodan link: https://www.shodan.io/host/18.144.62.152
+- Shodan Raw: https://github.com/cboyd0319/cpw9/blob/master/shodan.raw
 
 Any unresolved questions raised by the data collected
 - I'd like to take more time to add additional sensors and potentially write some automatic blocking/blackhoing scripts based on detected malicious activity
